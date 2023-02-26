@@ -8,6 +8,7 @@ Exercicios
    * [Nota](#Nota)
    * [Maior e Media](#MaiorEMedia)
    * [ímpar ou Par](#ImparOuPar)
+   * [Tabuada](#Tabuada)
 <!--te-->
 
 ## <a name="Nome-e-Idade" />Exercício Nome e Idade
@@ -32,3 +33,9 @@ e apresentar ao usúario.
 Exercicio de ímpar ou par, o usuário deve digitar um número N vezes,
 o programa deve coletar esses números e retornar a quantidade de 
 vezes que o número par e o número ímpar foram digitados.
+
+## <a name="Tabuada"/> Exercício de Tabuada
+
+Exercício de Tabuada, O usuário digita um número de 0 a 10 que será
+a tabuada que ele deseja ver, o sistema deve mostrar a tabuada deste
+número no formato:  FATOR X FATOR = PRODUTO.
