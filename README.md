@@ -9,6 +9,7 @@ Exercicios
    * [Maior e Media](#MaiorEMedia)
    * [ímpar ou Par](#ImparOuPar)
    * [Fatorial](#Fatorial)
+   * [Ordem Iversa](#OrdemIversa)
 <!--te-->
 
 ## <a name="Nome-e-Idade" />Exercício Nome e Idade
@@ -44,5 +45,10 @@ número no formato:  FATOR X FATOR = PRODUTO.
 
 Exercício de Fatorial, o usuário digita um número e o progama apresenta
 o cálculo deste fatorial.
+
+## <a name="OrdemInversa"/> Exercício de Ordem Inversa
+
+Exercício de Ordem Iversa, pede-se que crie um vetor de 6 posições e 
+inclua os números e depois mostre na tela estas posições invertidas
 
 
