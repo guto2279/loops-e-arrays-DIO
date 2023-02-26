@@ -6,6 +6,7 @@ Exercicios
 <!--ts-->
    * [Nome e Idade](#Nome-e-Idade)
    * [Nota](#Nota)
+   * [Maior e Media](#MaiorEMedia)
 <!--te-->
 
 ## <a name="Nome-e-Idade" />Exercício Nome e Idade
@@ -18,3 +19,9 @@ porém o programa deve parar ao colocar o número 0 no campo nome.
 Exercício de Nota, o usuário deve selecionar uma nota de 0 a 10, caso a 
 nota esteja fora deste conjunto numérico, deve-se pedir para digitar 
 novamente.
+
+## <a name="MaiorEMedia"/> Exercício de Maior número e Média
+
+Exercício de maior número e média, o usúario deve digitar 5 números e o
+programa deve calcular a média desses números e o maior número entre eles
+e apresentar ao usúario.
