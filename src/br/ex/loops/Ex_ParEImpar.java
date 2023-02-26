@@ -7,6 +7,10 @@ public class Ex_ParEImpar {
 	public void imparOuPar() {
 		Scanner scanner = new Scanner(System.in);
 		
+		System.out.println("---------------------------------------");
+		System.out.println("        Exercício de ímpar e Par       ");
+		System.out.println("---------------------------------------");
+		
 		// Minha solução para o exercício
 		/*
 		String escolha = "não";

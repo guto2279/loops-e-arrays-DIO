@@ -6,6 +6,10 @@ public class Ex_Nota {
 	
 	public void pedirNota() {
 		
+		System.out.println("---------------------------------------");
+		System.out.println("           Exercício de Notas          ");
+		System.out.println("---------------------------------------");
+		
 		Scanner scanner = new Scanner(System.in);
 		
 		int nota;

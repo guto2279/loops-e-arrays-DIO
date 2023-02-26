@@ -1,9 +1,11 @@
 import java.util.Scanner;
 
+import br.ex.loops.Ex_Fatorial;
 import br.ex.loops.Ex_MaiorEMedia;
 import br.ex.loops.Ex_NomeEIdade;
 import br.ex.loops.Ex_Nota;
 import br.ex.loops.Ex_ParEImpar;
+import br.ex.loops.Ex_Tabuada;
 
 public class Execultavel {
 
@@ -20,6 +22,8 @@ public class Execultavel {
 			System.out.println("2 - Nota                     ");
 			System.out.println("3 - Média e maior número     ");
 			System.out.println("4 - Impar ou Par             ");
+			System.out.println("5 - Tabuada                  ");
+			System.out.println("6 - Fatorial                 ");
 			System.out.println("0 - Sair                     ");
 			System.out.println("-----------------------------");
 			opc = scanner.nextInt();
@@ -45,6 +49,14 @@ public class Execultavel {
 			case 4:
 				Ex_ParEImpar ex4 = new Ex_ParEImpar();
 				ex4.imparOuPar();
+				
+			case 5: 
+				Ex_Tabuada ex5 = new Ex_Tabuada();
+				ex5.gerarTabuada();
+				
+			case 6:
+				Ex_Fatorial ex6 = new Ex_Fatorial();
+				ex6.fatorial();
 			}
 			
 			
