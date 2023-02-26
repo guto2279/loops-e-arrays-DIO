@@ -50,7 +50,7 @@ public class Ex_MaiorEMedia {
 			
 			count = count + 1;
 		}while(count < 5);
-		System.out.println("Maior numero: " + maior);
+		System.out.println("Maior número: " + maior);
 		System.out.println("Média: " + (soma / 5));
 	}
 }
