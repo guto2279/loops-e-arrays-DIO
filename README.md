@@ -8,7 +8,7 @@ Exercicios
    * [Nota](#Nota)
    * [Maior e Media](#MaiorEMedia)
    * [ímpar ou Par](#ImparOuPar)
-   * [Tabuada](#Tabuada)
+   * [Fatorial](#Fatorial)
 <!--te-->
 
 ## <a name="Nome-e-Idade" />Exercício Nome e Idade
@@ -39,3 +39,10 @@ vezes que o número par e o número ímpar foram digitados.
 Exercício de Tabuada, O usuário digita um número de 0 a 10 que será
 a tabuada que ele deseja ver, o sistema deve mostrar a tabuada deste
 número no formato:  FATOR X FATOR = PRODUTO.
+
+## <a name="Fatorial"/> Exercício de Fatorial
+
+Exercício de Fatorial, o usuário digita um número e o progama apresenta
+o cálculo deste fatorial.
+
+
