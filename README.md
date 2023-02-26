@@ -5,7 +5,7 @@ Exercicios
 =================
 <!--ts-->
    * [Nome e Idade](#Nome-e-Idade)
-   * [Nota](*Nota)
+   * [Nota](#Nota)
 <!--te-->
 
 ## <a name="Nome-e-Idade" />Exercício Nome e Idade
