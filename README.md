@@ -7,6 +7,7 @@ Exercicios
    * [Nome e Idade](#Nome-e-Idade)
    * [Nota](#Nota)
    * [Maior e Media](#MaiorEMedia)
+   * [ímpar ou Par](#ImparOuPar)
 <!--te-->
 
 ## <a name="Nome-e-Idade" />Exercício Nome e Idade
@@ -22,6 +23,12 @@ novamente.
 
 ## <a name="MaiorEMedia"/> Exercício de Maior número e Média
 
-Exercício de maior número e média, o usúario deve digitar 5 números e o
+Exercício de maior número e média, o usuário deve digitar 5 números e o
 programa deve calcular a média desses números e o maior número entre eles
 e apresentar ao usúario.
+
+## <a name="ImparOuPar"/> Exercício de ímpar ou Par
+
+Exercicio de ímpar ou par, o usuário deve digitar um número N vezes,
+o programa deve coletar esses números e retornar a quantidade de 
+vezes que o número par e o número ímpar foram digitados.
