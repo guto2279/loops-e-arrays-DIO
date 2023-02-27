@@ -10,6 +10,8 @@ Exercicios
    * [ímpar ou Par](#ImparOuPar)
    * [Fatorial](#Fatorial)
    * [Ordem Iversa](#OrdemIversa)
+   * [Consoantes](#Consoantes)
+   * [Números Alatórios](#NumerosAleatorios)
 <!--te-->
 
 ## <a name="Nome-e-Idade" />Exercício Nome e Idade
@@ -50,5 +52,16 @@ o cálculo deste fatorial.
 
 Exercício de Ordem Iversa, pede-se que crie um vetor de 6 posições e 
 inclua os números e depois mostre na tela estas posições invertidas
+
+## <a name="Consoantes"/> Exercício de Consoantes
+
+Exercício de Consoantes, o usuário digita 6 letras aleatórias,
+o programa deve identificá-las e armazená-las, em seguida, deverá
+mostrar na tela a quantidade de consoantes e quais são elas.
+
+## <a name="NumerosAleatorios"/> Exercício de Números Alatórios
+
+Criar uma array que pega números aleatórios de 0 á 100 e deve-se
+mostrar os seus sucessores.
 
 
